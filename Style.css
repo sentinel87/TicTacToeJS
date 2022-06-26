@@ -16,6 +16,8 @@ table {
 }
 
 .gameButton {
+	font-size: 25px;
+	font-weight: bold;
 	width: 100px;
 	height: 100px;
 }
