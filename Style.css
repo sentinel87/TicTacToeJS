@@ -1,0 +1,42 @@
+.gameDiv {
+	margin: auto;
+	background-color: #FAEBD7;
+}
+
+.menuDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75px; 
+  background-color: #FAEBD7;
+}
+
+table {
+	margin: auto;
+}
+
+.gameButton {
+	width: 100px;
+	height: 100px;
+}
+
+.menuButton {
+	font-size: 15px;
+	width: 200px;
+	height: 50px;
+	background-color: #F0F8FF;
+	border-color: gray;
+}
+
+h1 {
+	text-align: center;
+	margin: auto;
+	font-weight: bold;
+	color: #6495ED;
+}
+
+.currentPlayer {
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	font-weight: bold;
+}
